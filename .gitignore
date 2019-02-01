@@ -53,7 +53,7 @@ BuildingEscape/Binaries/*
 BuildingEscape/Plugins/*/Binaries/*
 
 # Builds
-Build/*
+BuildingEscape/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !BuildingEscape/Build/*/
